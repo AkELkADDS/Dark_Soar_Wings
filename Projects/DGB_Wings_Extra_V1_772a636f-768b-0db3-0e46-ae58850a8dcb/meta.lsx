@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="772a636f-768b-0db3-0e46-ae58850a8dcb"/>
+            <attribute id="Name" type="LSString" value="DGB_Wings_Extra_V1"/>
+            <attribute id="UUID" type="LSString" value="0a7f259f-e4c9-7d0c-aeb1-be52409e11c9"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

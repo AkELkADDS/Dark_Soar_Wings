@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_DMN_M_Wings_A_B2_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="DGB_DMN_M_Wings_A_B2_A_f57b5752-797f-9457-96f3-9814f347bc33"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="bb9e026d-f2db-cc22-4fb3-91a378bb116d"/>
+                    <attribute id="UUID" type="guid" value="055bb325-d384-49a7-a516-ccd0cce8d477"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_CMBN_M_Wings_A_B2_T1_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="d84c428b-b2a3-4c91-2317-1d9cc4ae61c3"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="b8d81ab0-d6b1-17ac-80e4-6ff4984a49ec"/>
+                    <attribute id="UUID" type="guid" value="3371d3cd-f810-4322-b628-8531d29f26c5"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_CMBN_M_Wings_A_B2_T2_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="39e1686f-eda2-d684-98a3-545d7cdb3fee"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="7a52a784-36d0-8ac6-87f4-76622e9d21a2"/>
+                    <attribute id="UUID" type="guid" value="ec94450b-a51d-4d58-8b9b-5721812f3daf"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
