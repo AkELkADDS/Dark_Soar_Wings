@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb 
-   Mon 02/16/2026 19:02:21.48 
+   Mon 02/16/2026 19:03:09.45 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -384,7 +384,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:02:24 PM
+  Started : Monday, February 16, 2026 7:03:12 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Projects\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -404,11 +404,7 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   252.3 k   252.3 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           258457000 Bytes/sec.
-   Speed :           14789.028 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:02:24 PM
+   Ended : Monday, February 16, 2026 7:03:12 PM
 
  
 [DEBUG] Counting source files 
@@ -434,7 +430,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:02:26 PM
+  Started : Monday, February 16, 2026 7:03:14 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Editor\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -458,7 +454,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           309111000 Bytes/sec.
    Speed :           17687.473 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:02:26 PM
+   Ended : Monday, February 16, 2026 7:03:14 PM
 
  
 [DEBUG] Counting source files 
@@ -484,7 +480,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:02:28 PM
+  Started : Monday, February 16, 2026 7:03:15 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -510,7 +506,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           160411000 Bytes/sec.
    Speed :            9178.791 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:02:28 PM
+   Ended : Monday, February 16, 2026 7:03:15 PM
 
  
 [DEBUG] Counting source files 
@@ -536,7 +532,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:02:29 PM
+  Started : Monday, February 16, 2026 7:03:17 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -772,7 +768,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    3269	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Content\[PAK]_DGB_Wings_Extra_V1\ffa85d60-2f89-2184-b521-7a8cb6355708.lsf100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\Textures\Icons\DGB_DMN_M_Wings_A_B_2_Atlas.dds100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\Textures\Icons\DGB_DMN_M_Wings_A_B_5_Atlas.dds100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_CMBN_M_Wings_A_B2_T1_CTLO.DDS 28%   42%   79%  100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_CMBN_M_Wings_A_B2_T1_CTLO.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_CMBN_M_Wings_A_B2_T1_DB_DMSK.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_CMBN_M_Wings_A_B2_T1_DMSK.DDS100%  
 	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_CMBN_M_Wings_A_B2_T1_HMVY.DDS100%  
@@ -788,7 +784,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_DMSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_GM.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_GM_Full.DDS 84%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_GM_Full.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_HMVY.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_MSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Assets\_Male\Textures\Wings\DGB_M_Demonic_Wings_A\DGB_DMN_M_Wings_A_B2_NM.DDS100%  
@@ -823,7 +819,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A\Wings\DGB_DMN_F_Wings_A_B_VFX_GM.xml100%  
 	    New File  		  440560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAA.GR2100%  
 	    New File  		     218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAA.xml100%  
-	    New File  		  895744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAA_VFX.GR2  0%  100%  
+	    New File  		  895744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAA_VFX.GR2100%  
 	    New File  		     222	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAA_VFX.xml100%  
 	    New File  		  440560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAB.GR2100%  
 	    New File  		     218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_AAB.xml100%  
@@ -853,12 +849,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        23        23         1         0         0         0
    Files :       300       300         0         0         0         0
    Bytes :  257.63 m  257.63 m         0         0         0         0
-   Times :   0:00:08   0:00:01                       0:00:00   0:00:00
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           204655039 Bytes/sec.
-   Speed :           11710.455 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:02:31 PM
+   Speed :           2548534452 Bytes/sec.
+   Speed :           145828.311 MegaBytes/min.
+   Ended : Monday, February 16, 2026 7:03:17 PM
 
  
 [DEBUG] Counting source files 
@@ -884,7 +880,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 7:02:33 PM
+  Started : Monday, February 16, 2026 7:03:19 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -916,7 +912,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  922768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_Teared_BAB_VFX.GR2100%  
 	    New File  		  886856	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_DMN_M_Wings_A_B.GR2100%  
 	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_DMN_M_Wings_A_B_GM.GR2100%  
-	    New File  		   1.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_DMN_M_Wings_A_B_VFX.GR2 56%  100%  
+	    New File  		   1.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_DMN_M_Wings_A_B_VFX.GR2100%  
 	    New File  		   2.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_DMN_M_Wings_A_B_VFX_GM.GR2100%  
 
 ------------------------------------------------------------------------------
@@ -925,12 +921,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        11        11         1         0         0         0
    Files :        24        24         0         0         0         0
    Bytes :   23.91 m   23.91 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           126661010 Bytes/sec.
-   Speed :            7247.601 MegaBytes/min.
-   Ended : Monday, February 16, 2026 7:02:33 PM
+   Speed :           2507888000 Bytes/sec.
+   Speed :           143502.502 MegaBytes/min.
+   Ended : Monday, February 16, 2026 7:03:19 PM
 
  
 [DEBUG] Counting source files 
