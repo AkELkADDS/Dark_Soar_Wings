@@ -6,54 +6,6 @@
             <children>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="14e74f0e-6dcd-4c5a-ab35-9798bc9db3d4"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="a09a815e-34cf-4670-9d55-2cac85d6a1f7"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="2a212a1d-28ee-4c38-9976-d1c9f9b0ee31"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="5df4c5bf-f42c-463f-9556-2de11fe10815"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2f7d4c06g3dd5gf881gaf9dg1cebcda9cac1" version="2"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_DMN_M_Wings_A_B_1"/>
@@ -64,6 +16,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -80,53 +35,8 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="1ca48a6c-1f8e-403d-901b-b126d0803c1b"/>
-                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="7b42da98-b90e-4c19-9580-a953445555bc"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="ed809049-3450-48c8-9be1-1b4a4dc27c3f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="ec2f4c1e-34a4-44a2-a121-3bc71f9c9e05"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -143,6 +53,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -157,6 +70,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -173,6 +89,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -187,6 +106,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -203,6 +125,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -217,6 +142,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -233,6 +161,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -247,6 +178,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -263,6 +197,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -277,6 +214,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -293,6 +233,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -307,6 +250,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -323,6 +269,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -337,6 +286,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -353,6 +305,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -367,6 +322,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -383,6 +341,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -397,6 +358,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -413,6 +377,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -427,6 +394,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -443,6 +413,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -457,6 +430,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -473,6 +449,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -487,6 +466,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -503,6 +485,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -517,6 +502,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -533,6 +521,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -547,6 +538,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -563,6 +557,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -577,6 +574,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -593,6 +593,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -607,6 +610,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -623,6 +629,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -637,6 +646,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -653,6 +665,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -667,6 +682,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -683,6 +701,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -698,113 +719,8 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="0c225af7-b4d2-4e67-ab36-50684546e8ee"/>
-                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="e3121f54-be23-4fcb-8712-1d9ad45dccab"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="216fb649-c73e-49e2-a430-0865d44d9a55"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="24ea2037-a023-4f58-92aa-588867b97b06"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="c68bee31-303d-4451-8c32-01b1d018eae0"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="2e58c29b-8684-4304-9ea6-bb9d2434bdd6"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="e9373630-c62c-49af-ade4-6688114dc948"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="7126bc01-1699-4370-be7a-12ca0888fd3f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="c0042f53-e67d-4558-919b-abafc2e3ef1a"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -821,6 +737,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -835,6 +754,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -851,6 +773,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -865,6 +790,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -881,6 +809,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -895,6 +826,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -911,6 +845,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -925,6 +862,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -941,6 +881,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -955,6 +898,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -971,6 +917,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -985,6 +934,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1001,6 +953,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1015,6 +970,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1031,6 +989,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1045,6 +1006,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1061,6 +1025,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1075,6 +1042,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1091,6 +1061,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1105,6 +1078,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1121,6 +1097,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1135,6 +1114,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1151,6 +1133,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1165,6 +1150,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1181,6 +1169,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1195,6 +1186,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1211,6 +1205,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1225,6 +1222,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1241,6 +1241,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1255,6 +1258,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1271,6 +1277,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1285,6 +1294,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1301,6 +1313,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1315,6 +1330,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1331,6 +1349,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1345,6 +1366,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1361,6 +1385,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1375,6 +1402,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1391,6 +1421,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1406,65 +1439,8 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="da27d1e7-4b6a-4af5-b431-7024be7f1bca"/>
-                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="4519c9c6-7489-4222-918a-6872f9d4a52b"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="cd045c44-7c60-4c2b-8df5-f04b1b860b42"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="58e01300-4e73-4504-9d38-ccab953f5e1f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="73289ab2-cdc0-428b-965a-e2a08b972837"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1481,6 +1457,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1496,53 +1475,8 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="fbde75f2-ac46-4491-b1ab-9a353dcb774c"/>
-                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="1c0fa950-d528-4bb4-ba6d-649fc7aac1c0"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="71bd8bef-4c0c-4c4f-a514-2be02b4e22ab"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="619aaf60-b204-4aab-88f3-4ca64dc58847"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1559,6 +1493,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1573,6 +1510,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1589,6 +1529,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1603,6 +1546,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1619,6 +1565,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1633,6 +1582,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1649,6 +1601,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1663,6 +1618,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1679,6 +1637,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1693,6 +1654,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1709,6 +1673,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1723,6 +1690,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1739,6 +1709,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1753,6 +1726,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1769,6 +1745,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1783,6 +1762,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1799,6 +1781,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1813,6 +1798,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1829,6 +1817,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1843,6 +1834,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1859,6 +1853,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1873,6 +1870,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1889,6 +1889,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1903,6 +1906,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1919,6 +1925,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1933,6 +1942,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1949,6 +1961,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1963,6 +1978,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -1979,6 +1997,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -1993,6 +2014,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2009,6 +2033,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2023,6 +2050,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2039,6 +2069,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2053,6 +2086,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2069,6 +2105,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2083,6 +2122,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2099,6 +2141,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2114,209 +2159,8 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="6cf6c2fa-3e7f-4f9a-a42f-63ecc3f4827b"/>
-                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="44739fa8-cad1-4d5d-82fc-b92941fc062c"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="cde21800-71b0-46c7-836a-fa83c7c2cc1c"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="dcc869f6-d630-49c5-9318-89274f986b29"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="7c91b06f-ef27-4f67-ad2b-704ecd812419"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="fe7ecaef-aef5-4cbe-b64e-5d1b551c14ee"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="b1266b32-1f84-4dda-990e-d27ea5c838c0"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="07ad2749-096e-4da6-8167-6e483387cdd0"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="f64e1d68-d8cc-4dac-9545-595b37a62542"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="393beddd-cbf4-48f8-82f2-78cee4e62ec4"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d9bbf2ce-4665-4530-b9e4-5cc34fb4edb6"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="443c603e-3cca-4f80-a7a3-85f8648acaef"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="f6d3c49a-0cf6-4cf0-be58-4763fe53b252"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="aa53b95c-a7b2-4db8-a8ca-638c34724359"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="ecf54313-15e6-44a0-a340-56c40116d8d7"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="1f3981b5-31de-4b2d-8834-b81b447fee81"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="8e3451b8-3553-4ccf-b153-5550f4bdb309"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2333,6 +2177,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2347,6 +2194,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2363,6 +2213,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2377,6 +2230,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2393,6 +2249,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2407,6 +2266,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2423,6 +2285,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2437,6 +2302,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2453,6 +2321,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2467,6 +2338,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2483,6 +2357,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2497,6 +2374,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2513,6 +2393,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2527,6 +2410,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2543,6 +2429,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2557,6 +2446,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2573,6 +2465,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2587,6 +2482,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2603,6 +2501,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2617,6 +2518,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2633,6 +2537,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2647,6 +2554,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2663,6 +2573,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2677,6 +2590,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2693,6 +2609,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2707,6 +2626,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2723,6 +2645,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2737,6 +2662,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2753,6 +2681,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2767,6 +2698,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2783,6 +2717,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2797,6 +2734,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2813,6 +2753,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2827,6 +2770,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2843,6 +2789,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2857,6 +2806,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2873,6 +2825,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2887,6 +2842,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -2903,6 +2861,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -2918,101 +2879,8 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="932c06a8-1a9d-4892-9b2a-f38c4722b6ba"/>
-                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="975db8a9-a617-4b65-8758-84ffcfe08cb0"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="35593e4b-2400-4137-bafc-0f53015d6a9f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="69d405f8-c572-4103-a08a-f932d68e61bc"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="21d42a29-eb71-426e-af2a-21a9adc3f6b4"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="536a4f72-3cfe-4777-8557-fba8ad3bff5f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d4b38607-18ed-4f45-ac8b-008580c16419"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="38af8b11-bfe5-4e8b-a0f2-e9617f7f2ee4"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3029,6 +2897,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3043,6 +2914,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3059,6 +2933,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3073,6 +2950,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3089,17 +2969,26 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h891eecd2g8f77gb255g322fg1dcdcbd5356e" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_SW_Wings_POSE_B"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="adcc7ffd-c547-44c6-8fb9-a5df9109d4b6"/>
+                    <attribute id="UUID" type="guid" value="ba652bdb-c661-4d88-a8be-de26b51be62d"/>
+                    <attribute id="VisualResource" type="guid" value="0c96040e-af9d-43cf-aa9f-e00b87b75087"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3116,6 +3005,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3130,6 +3022,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3146,6 +3041,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3160,6 +3058,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3176,17 +3077,26 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcc42323bg7587gb482ga880ge27cf687b6ad" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_SW_Wings_HIDDEN"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="9a6889aa-9386-4a06-9f74-6608d18d09bd"/>
+                    <attribute id="UUID" type="guid" value="f3934df7-fe02-4fe7-9e4b-1a3393ab8a7f"/>
+                    <attribute id="VisualResource" type="guid" value="12c8fca3-a7e2-4e46-b3df-cabdbb26f583"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3203,6 +3113,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3217,6 +3130,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3233,6 +3149,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3247,6 +3166,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3263,6 +3185,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3277,6 +3202,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
@@ -3293,6 +3221,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
+                        </node>
                     </children>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
@@ -3307,6 +3238,9 @@
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="e7edf5e9-5677-4376-afa3-9a7a54e3deaa"/>
                         </node>
                     </children>
                 </node>
