@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb 
-   Thu 02/19/2026 17:44:38.67 
+   Thu 02/19/2026 17:52:56.95 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -1630,7 +1630,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 19, 2026 5:44:42 PM
+  Started : Thursday, February 19, 2026 5:53:00 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Projects\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -1654,7 +1654,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           258457000 Bytes/sec.
    Speed :           14789.028 MegaBytes/min.
-   Ended : Thursday, February 19, 2026 5:44:42 PM
+   Ended : Thursday, February 19, 2026 5:53:00 PM
 
  
 [DEBUG] Counting source files 
@@ -1680,7 +1680,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 19, 2026 5:44:44 PM
+  Started : Thursday, February 19, 2026 5:53:02 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Editor\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -1704,7 +1704,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           786595000 Bytes/sec.
    Speed :           45009.326 MegaBytes/min.
-   Ended : Thursday, February 19, 2026 5:44:44 PM
+   Ended : Thursday, February 19, 2026 5:53:02 PM
 
  
 [DEBUG] Counting source files 
@@ -1730,7 +1730,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 19, 2026 5:44:45 PM
+  Started : Thursday, February 19, 2026 5:53:04 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Mods\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -1754,9 +1754,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           367458000 Bytes/sec.
-   Speed :           21026.115 MegaBytes/min.
-   Ended : Thursday, February 19, 2026 5:44:45 PM
+   Speed :           183729000 Bytes/sec.
+   Speed :           10513.057 MegaBytes/min.
+   Ended : Thursday, February 19, 2026 5:53:04 PM
 
  
 [DEBUG] Counting source files 
@@ -1782,7 +1782,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 19, 2026 5:44:48 PM
+  Started : Thursday, February 19, 2026 5:53:06 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -3167,12 +3167,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        27        27         1         0         0         0
    Files :      1368      1368         0         0         0         0
    Bytes :  360.85 m  360.85 m         0         0         0         0
-   Times :   0:00:07   0:00:01                       0:00:00   0:00:00
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           333669195 Bytes/sec.
-   Speed :           19092.704 MegaBytes/min.
-   Ended : Thursday, February 19, 2026 5:44:49 PM
+   Speed :           1332327000 Bytes/sec.
+   Speed :            76236.362 MegaBytes/min.
+   Ended : Thursday, February 19, 2026 5:53:06 PM
 
  
 [DEBUG] Counting source files 
@@ -3198,7 +3198,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 19, 2026 5:44:52 PM
+  Started : Thursday, February 19, 2026 5:53:09 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\Generated\Public\DGB_Wings_Extra_V1_772a636f-768b-0db3-0e46-ae58850a8dcb\
 
@@ -3420,9 +3420,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1471544754 Bytes/sec.
-   Speed :            84202.466 MegaBytes/min.
-   Ended : Thursday, February 19, 2026 5:44:52 PM
+   Speed :           1733152711 Bytes/sec.
+   Speed :            99171.793 MegaBytes/min.
+   Ended : Thursday, February 19, 2026 5:53:09 PM
 
  
 [DEBUG] Counting source files 
